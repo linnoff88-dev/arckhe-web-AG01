@@ -35,7 +35,7 @@ const Navbar: React.FC<NavbarProps> = ({ isScrolled, userId, onLoginClick, onDas
               <Zap className={`text-black transition-all ${isScrolled ? 'w-4 h-4' : 'w-6 h-6'}`} fill="currentColor" />
             </div>
             <span className={`font-black tracking-tighter text-white transition-all ${isScrolled ? 'text-lg' : 'text-xl'
-              }`}>INEMA.CLUB</span>
+              }`}>ARCKHÉ AI</span>
           </div>
 
           <div className="hidden md:flex items-center gap-8">

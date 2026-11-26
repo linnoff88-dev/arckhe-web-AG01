@@ -129,7 +129,7 @@ const Hero: React.FC = () => {
           </h1>
 
           <p className="text-lg md:text-2xl text-[#99A1AF] max-w-2xl mx-auto mb-12 font-light leading-relaxed tracking-tight">
-            Aprenda IA e Robotica de forma pratica e divertida. Prepare-se para as profissoes do futuro com a metodologia INEMA.
+            Aprenda IA e Robotica de forma pratica e divertida. Prepare-se para as profissoes do futuro com a metodologia ARCKHÉ.
           </p>
 
           <div className="flex flex-col sm:flex-row items-center justify-center gap-6">

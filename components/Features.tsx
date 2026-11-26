@@ -27,7 +27,7 @@ const Features: React.FC = () => {
               className="text-4xl md:text-7xl font-black tracking-tighter text-white"
             >
               METODOLOGIA <br />
-              <span className="text-transparent bg-clip-text bg-gradient-to-r from-white to-white/40">INEMA.</span>
+              <span className="text-transparent bg-clip-text bg-gradient-to-r from-white to-white/40">ARCKHÉ.</span>
             </motion.h2>
           </div>
           <motion.p
@@ -85,7 +85,7 @@ const Features: React.FC = () => {
             <Layout className="w-10 h-10 text-white mb-6" />
             <h3 className="text-2xl font-bold mb-3">Comunidade Ativa</h3>
             <p className="text-sm text-[#99A1AF]">
-              Conecte-se com outros alunos e mentores no INEMA.VIP.
+              Conecte-se com outros alunos e mentores no ARCKHÉ.VIP.
             </p>
           </motion.div>
 

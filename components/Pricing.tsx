@@ -26,7 +26,7 @@ const pricingPlans = [
       "Trilhas de aprendizado completas",
       "Certificados de conclusao",
       "Suporte prioritario",
-      "Acesso ao INEMA.VIP"
+      "Acesso ao ARCKHÉ.VIP"
     ],
     highlight: true,
     color: "bg-[#BFF549]"

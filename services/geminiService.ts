@@ -12,7 +12,7 @@ export const analyzeConversion = async (urlOrDescription: string) => {
     critique: `Analise baseada em: "${urlOrDescription.substring(0, 50)}..." - Este e um resultado de demonstracao. A funcionalidade completa com IA sera ativada em breve. Seu interesse em IA e Robotica mostra que voce esta no caminho certo para o futuro!`,
     recommendations: [
       "Comece com os jogos educativos da plataforma EAI para construir uma base solida",
-      "Participe da comunidade INEMA.VIP para networking e troca de experiencias",
+      "Participe da comunidade ARCKHÉ.VIP para networking e troca de experiencias",
       "Considere uma mentoria personalizada para acelerar seu aprendizado"
     ]
   };

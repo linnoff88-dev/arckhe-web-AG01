@@ -3,7 +3,7 @@ import React from 'react';
 import { motion } from 'framer-motion';
 
 const brands = [
-  'EAI Games', 'INEMA.VIP', 'Robotica', 'IA Brasil', 'TechLab', 'FutureTech', 'CodeIA',
+  'EAI Games', 'ARCKHÉ.VIP', 'Robotica', 'IA Brasil', 'TechLab', 'FutureTech', 'CodeIA',
   'RoboEdu', 'AILearn', 'TechHub', 'DataIA', 'SmartEdu'
 ];
 

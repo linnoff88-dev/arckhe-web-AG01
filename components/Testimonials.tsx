@@ -14,14 +14,14 @@ const testimonials = [
   {
     name: "Ana Carolina",
     role: "Empreendedora Digital",
-    content: "Comecei do zero e hoje ja uso IA no meu negocio. A metodologia INEMA realmente funciona!",
+    content: "Comecei do zero e hoje ja uso IA no meu negocio. A metodologia ARCKHÉ realmente funciona!",
     avatar: "https://picsum.photos/100/100?random=2",
     rating: 5
   },
   {
     name: "Pedro Henrique",
     role: "Desenvolvedor Junior",
-    content: "As mentorias do INEMA.VIP aceleraram minha carreira. Em 3 meses consegui minha primeira vaga em IA.",
+    content: "As mentorias do ARCKHÉ.VIP aceleraram minha carreira. Em 3 meses consegui minha primeira vaga em IA.",
     avatar: "https://picsum.photos/100/100?random=3",
     rating: 5
   },

@@ -12,7 +12,7 @@ const Footer: React.FC = () => {
               <div className="w-8 h-8 bg-[#BFF549] rounded-lg flex items-center justify-center">
                 <Zap className="text-black w-5 h-5" fill="currentColor" />
               </div>
-              <span className="text-lg font-black tracking-tighter text-white uppercase">INEMA.CLUB</span>
+              <span className="text-lg font-black tracking-tighter text-white uppercase">ARCKHÉ AI</span>
             </div>
             <p className="text-[#99A1AF] font-light leading-relaxed mb-8">
               Preparamos voce para o futuro com IA e Robotica. Aprendizado pratico, comunidade ativa e resultados reais.
@@ -33,7 +33,7 @@ const Footer: React.FC = () => {
             },
             {
               title: "Comunidade",
-              links: ["INEMA.VIP", "Eventos", "Blog", "Casos de Sucesso"]
+              links: ["ARCKHÉ.VIP", "Eventos", "Blog", "Casos de Sucesso"]
             },
             {
               title: "Suporte",
@@ -56,7 +56,7 @@ const Footer: React.FC = () => {
         </div>
 
         <div className="flex flex-col md:flex-row items-center justify-between gap-8 pt-8 border-t border-white/5 text-[#99A1AF] text-sm">
-          <p>2026 INEMA.Club. Todos os direitos reservados.</p>
+          <p>2026 ARCKHÉ AI. Todos os direitos reservados.</p>
           <p>Feito com dedicacao para o futuro.</p>
         </div>
       </div>

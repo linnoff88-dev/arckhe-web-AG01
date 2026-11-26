@@ -1,14 +1,14 @@
-# INEMA.Club
+# ARCKHÉ AI
 
 Plataforma educacional focada em **Inteligencia Artificial** e **Robotica**. Preparamos voce para as profissoes do futuro com metodologia pratica, jogos educativos e comunidade ativa.
 
 ## Sobre o Projeto
 
-O INEMA.Club e uma plataforma que oferece:
+O ARCKHÉ AI e uma plataforma que oferece:
 
 - **Aprendizado Acelerado** - Metodologia que combina teoria e pratica
-- **Jogos Educativos (EAI)** - Aprenda IA de forma divertida em eai.inema.club
-- **Comunidade INEMA.VIP** - Networking e troca de experiencias no Telegram
+- **Jogos Educativos (EAI)** - Aprenda IA de forma divertida em eai.ARCKHÉ AI
+- **Comunidade ARCKHÉ.VIP** - Networking e troca de experiencias no Telegram
 - **Mentorias Exclusivas** - Acompanhamento personalizado com especialistas
 - **Certificados** - Reconhecimento oficial de conclusao
 
@@ -46,7 +46,7 @@ Para ativar todas as funcionalidades, configure as variaveis de ambiente:
 
 ```bash
 # Clonar repositorio
-git clone https://github.com/inematds/web-AG01.git
+git clone https://github.com/linnoff88-dev/web-AG01.git
 cd web-AG01
 
 # Instalar dependencias
@@ -64,7 +64,7 @@ O site estara disponivel em `http://localhost:3000`
 ## Deploy no Vercel
 
 1. Acesse [vercel.com](https://vercel.com)
-2. Importe o repositorio `inematds/web-AG01`
+2. Importe o repositorio `linnoff88-dev/web-AG01`
 3. Deploy automatico (funciona sem variaveis de ambiente)
 4. (Opcional) Adicione variaveis para funcionalidades extras
 
@@ -130,7 +130,7 @@ web-AG01/
 â”œâ”€â”€ components/          # Componentes React
 â”‚   â”œâ”€â”€ Navbar.tsx       # Navegacao
 â”‚   â”œâ”€â”€ Hero.tsx         # Secao principal
-â”‚   â”œâ”€â”€ Features.tsx     # Metodologia INEMA
+â”‚   â”œâ”€â”€ Features.tsx     # Metodologia ARCKHÉ
 â”‚   â”œâ”€â”€ Pricing.tsx      # Planos e precos
 â”‚   â”œâ”€â”€ Testimonials.tsx # Depoimentos
 â”‚   â”œâ”€â”€ AuditTool.tsx    # Diagnostico IA
@@ -161,9 +161,9 @@ web-AG01/
 ## Links Uteis
 
 - **Site:** https://web-ag01.vercel.app/
-- **EAI Games:** https://eai.inema.club
-- **INEMA.VIP:** Comunidade no Telegram
-- **Repositorio:** https://github.com/inematds/web-AG01
+- **EAI Games:** https://eai.ARCKHÉ AI
+- **ARCKHÉ.VIP:** Comunidade no Telegram
+- **Repositorio:** https://github.com/linnoff88-dev/web-AG01
 
 ## Contribuicao
 
