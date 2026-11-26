@@ -6,7 +6,7 @@ export const analyzeConversion = async (urlOrDescription: string) => {
   // Simula delay de processamento
   await new Promise(resolve => setTimeout(resolve, 1500));
 
-  // Retorna dados de demonstração
+  // Retorna dados de demonstraçêo
   return {
     score: 78,
     critique: `Analise baseada em: "${urlOrDescription.substring(0, 50)}..." - Este e um resultado de demonstracao. A funcionalidade completa com IA sera ativada em breve. Seu interesse em IA e Robotica mostra que voce esta no caminho certo para o futuro!`,

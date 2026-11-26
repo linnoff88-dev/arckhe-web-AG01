@@ -1,4 +1,4 @@
-﻿# INEMA.Club
+# INEMA.Club
 
 Plataforma educacional focada em **Inteligencia Artificial** e **Robotica**. Preparamos voce para as profissoes do futuro com metodologia pratica, jogos educativos e comunidade ativa.
 
@@ -183,4 +183,4 @@ Feito com dedicacao para o futuro da educacao em IA e Robotica.
 
 ---
 
-Projeto adaptado da comunidade INEMA TDS - Marca Arckhe
+Projeto  - ARCKHÉe
